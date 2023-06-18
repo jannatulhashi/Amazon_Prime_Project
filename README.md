@@ -34,13 +34,13 @@ With this dataset, we can explore various aspects of the titles available on Ama
 
 ### Project Requirements
 
-•	Use Pandas to clean and format our dataset or datasets.
-•	Create a Jupyter notebook describing the data exploration and cleanup process.
-•	Create a Jupyter notebook illustrating the final data analysis.
-•	Use Matplotlib to create 6 to 8 visualizations of our data (ideally, at least 2 visualizations per “question” that we ask our data).
-•	Save PNG images of our visualizations to distribute to the class and instructional team—and for
+- Use Pandas to clean and format our dataset or datasets.
+- Create a Jupyter notebook describing the data exploration and cleanup process.
+- Create a Jupyter notebook illustrating the final data analysis.
+- Use Matplotlib to create 6 to 8 visualizations of our data (ideally, at least 2 visualizations per “question” that we ask our data).
+- Save PNG images of our visualizations to distribute to the class and instructional team—and for
 inclusion in our presentation.
-•	Create a write-up summarizing our major findings. This should include a heading for each “question” that we asked our data as well as a short description of our findings and any relevant plots.
+- Create a write-up summarizing our major findings. This should include a heading for each “question” that we asked our data as well as a short description of our findings and any relevant plots.
 
 ### Research Questions:
  - What is the distribution of TV shows and movies available on Amazon Prime?
