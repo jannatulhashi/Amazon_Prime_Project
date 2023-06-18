@@ -58,8 +58,7 @@ inclusion in our presentation.
       - Create labels and sizes for the pie chart
       - Create a color palette for the pie chart
       - Plot the pie chart and save an image of the chart as a PNG file
-      
-      ![](PieChart.png)
+![](PieChart.png)
 
 **Are there any trends or patterns in the release years of TV shows and movies available on Amazon Prime?**
       - Filter TV shows and movies separately
