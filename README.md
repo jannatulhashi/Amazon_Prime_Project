@@ -66,6 +66,7 @@ inclusion in our presentation.
       - Count the number of titles released each year for movies
       - Plot the line chart for TV shows and Movies
       - Display the line chart and save an image of the chart as a PNG file
+![](LineChart.png)
 
 **Which directors have the highest total IMDb votes for their movies? (considering only movies with more than 1000 IMDb votes).**
       - Filter movies from the merged dataset
@@ -75,6 +76,7 @@ inclusion in our presentation.
       - Sort the directors in descending order
       - Generate a range of colors using a colormap and plot the horizontal bar chart for top directors and their total IMDb votes
       - Display the bar chart and save an image of the chart as a PNG file
+![](BarChart.png)
 
 **Which genres have the highest distribution among titles with high IMDB ratings?**
       - Calculate the highest IMDB ratings
@@ -82,23 +84,29 @@ inclusion in our presentation.
       - Calculate the total number of titles
       - Calculate the percentage of each genre of movies and tv shows
       - Plot a stacked bar chart illustrating the genre distribution for titles with high IMDB ratings and save an image of the chart as a PNG file
+![](BARChart1.png)
 
 **What are the audience preferences on genres on Amazon Prime based on IMDB votes?**
       - Create IMDB DATA FRAME
       - Calculate top genres on IMDB
       - Create a bar chart to visualize the top genres based on IMDB votes and save an image of the chart as a PNG file
+![](BarChart2.png)
 
 **How do the average ratings and popularity scores vary across different production countries?**
       - Remove list formatting of production countries
       - Find how many movies were made in each country to get the top 20 most common
       - Filter the dataframe to get only the top 20 countries
       - Plot a bar chart displaying the average ratings for titles produced in different countries and save an image of the chart as a PNG file
+![](Avg.IMDBperCountry.png)
+
+![](Avg.TMDBperCountry.png)
 
 **Are there any notable differences in ratings and popularity between titles produced in different regions?**
       - Find the popularity and rating values for this country
       - Create a scatter plot showing the relationship between ratings and popularity for titles produced in different countries
       - Add linear regression line
-      - Find correlation
+      - Find correlations for different countries and the image should look like this
+![](Avg.RatingvsPopularityCA.png)
 
 **Are there any correlations between IMDB score, TMDB score, and popularity?**
       - Checking the rows (to get a look at the data & columns required)
@@ -106,6 +114,5 @@ inclusion in our presentation.
       - Create a scatter plot visualization using the variables and declare the size of the figures
       - Loop that iterates over the indices of the variable list and generates a histogram for each variable in the list
       - Display the plot and save an image of the plot as a PNG file
-
-
+![](ScatterPlot.png)
 
