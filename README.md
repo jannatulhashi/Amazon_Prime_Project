@@ -116,3 +116,8 @@ inclusion in our presentation.
 - Display the plot and save an image of the plot as a PNG file
 ![](ScatterPlot.png)
 
+### Limitations of Our Data
+- IMDB and TMDB ratings are both databases where the rating is dependent on aggregations of user reviews
+- Ratings may be subject to personal opinions and may not be representative of the general public
+- The connections made in this analysis with production countries, title genres, distribution, director popularity, timeline, etc. in relation to IMDb/TMDB ratings do not include all relevant variables that may have an effect on ratings/quality of titles on Amazon such as budget, production quality, the viewer/user demographic, etc.
+
