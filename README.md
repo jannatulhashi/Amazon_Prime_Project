@@ -85,6 +85,7 @@ inclusion in our presentation.
 - Calculate the total number of titles
 - Calculate the percentage of each genre of movies and tv shows
 - Plot a stacked bar chart illustrating the genre distribution for titles with high IMDB ratings and save an image of the chart as a PNG file
+  
 ![](BARChart1.png)
 
 **What are the audience preferences on genres on Amazon Prime based on IMDB votes?**
@@ -98,6 +99,7 @@ inclusion in our presentation.
 - Find how many movies were made in each country to get the top 20 most common
 - Filter the dataframe to get only the top 20 countries
 - Plot a bar chart displaying the average ratings for titles produced in different countries and save an image of the chart as a PNG file
+  
 ![](Avg.IMDBperCountry.png)
 
 ![](Avg.TMDBperCountry.png)
