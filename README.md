@@ -33,6 +33,7 @@ The "credits.csv" file contains information about the cast and crew of the title
 With this dataset, we can explore various aspects of the titles available on Amazon Prime, such as content distribution, release year, genre distribution, popularity, and ratings on platforms like IMDB and TMDB. Additionally, the credits information allows us to analyze the involvement of actors and directors in the titles.
 
 ### Project Requirements
+
 •	Use Pandas to clean and format our dataset or datasets.
 •	Create a Jupyter notebook describing the data exploration and cleanup process.
 •	Create a Jupyter notebook illustrating the final data analysis.
