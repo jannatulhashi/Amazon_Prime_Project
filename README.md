@@ -124,3 +124,11 @@ inclusion in our presentation.
 - Ratings may be subject to personal opinions and may not be representative of the general public
 - The connections made in this analysis with production countries, title genres, distribution, director popularity, timeline, etc. in relation to IMDb/TMDB ratings do not include all relevant variables that may have an effect on ratings/quality of titles on Amazon such as budget, production quality, the viewer/user demographic, etc.
 
+### Recommendations Based on Analysis
+- Create Amazon Prime exclusive content preferably using the higher-rated directors
+- Add more tv shows to increase watch time
+- Offer more Science fiction, Fantasy, and Thriller titles
+- Push more Asian content to viewers based on their genre preferences to keep up with trends
+- Add an Amazon rating system
+
+
