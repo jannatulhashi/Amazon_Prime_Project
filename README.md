@@ -4,7 +4,7 @@ This project utilizes the Amazon Prime TV Shows and Movies dataset to uncover in
 
 ## Background 
 
-The Amazon Prime TV Shows and Movies dataset from Kaggle consists of two files: "credits.csv" and "titles.csv". The dataset contains information about more than 9,000 unique titles available on Amazon Prime.
+The Amazon Prime TV Shows and Movies dataset from **Kaggle** consists of two files: "credits.csv" and "titles.csv". The dataset contains information about more than 9,000 unique titles available on Amazon Prime.
 
 The "titles.csv" file includes the following columns:
 - "id": The title ID on JustWatch.
